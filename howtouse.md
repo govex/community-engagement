@@ -17,4 +17,4 @@ This guide is intended to provide questions, examples, and tools that can inspir
 * What rewards are you offering for engagement? Would you act on those rewards?
 * How are you thanking and acknowledging people for their engagement? Is this focused on one type of engagement or distributed across the various ways people can engage?
 * How does community engagement actually influence the work you do?
-* Where can community members see their engagement mattering / influencing your work?
+* Where can community members see their engagement mattering/influencing your work?

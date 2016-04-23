@@ -7,7 +7,7 @@ Johns Hopkins University’s Center for Government Excellence (GovEx) recommends
 
 1. **Identify a goal.** The following chapters outline a series of high-level goals that cities may wish to achieve by engaging their community stakeholders. Cities may be focused on achieving one or many of these goals.
 2. **Understand your environment.** Each chapter includes a series of questions related to that goal that assist with understanding a city’s environment. The chapters also include specific case studies that illustrate how other cities have addressed these goals.
-3. **Choose your tools.** Tools to support community engagement for the relevant goal are noted within each chapter. Chapter 6, a comprehensive toolkit, includes the tools identified in each chapter, as well as additional tools that may be valuable.
+3. **Choose your tools.** Tools to support community engagement for the relevant goal are noted within each chapter. Chapter 6: Toolkits, a comprehensive toolkit, includes the tools identified in each chapter, as well as additional tools that may be valuable.
 
 This guide is intended to provide questions, examples, and tools that can inspire meaningful engagements with city stakeholders.
 

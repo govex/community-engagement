@@ -21,6 +21,6 @@ The [OutFront](http://fayettevilleoutfront.com/) website in Fayetteville, NC, em
 * Who is your expected audience or set of contributors? Which tools are they most likely to be comfortable with?
 
 **Related Tools and GovEx Resources**
-* Meeting Planning Toolkit
-* Press Toolkit
-* Outreach Effectiveness Toolkit
+* [Meeting Planning Toolkit](chapter6.2.md)
+* [Press Toolkit](chapter6.4.md)
+* [Outreach Effectiveness Toolkit](chapter6.6.md)

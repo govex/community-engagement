@@ -20,6 +20,6 @@ Mobile, AL, combined resident reports to its 311 call center and pictures code e
 * What systems are used internally that may also have value for the public?
 
 **Related Tools and GovEx Resources**
-* Curating a Public Conversation Toolkit
-* Community Capacity Toolkit
-* Press Toolkit
+* [Curating a Public Conversation Toolkit](chapter6.3.md)
+* [Community Capacity Toolkit](chapter6.1.md)
+* [Press Toolkit](chapter6.4.md)

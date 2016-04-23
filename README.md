@@ -1,4 +1,8 @@
 ###Community Engagement Playbook
+####by Lena Geraghty and Katherine Klosek
+with contributions from Kristen Ahearn, Matt Pazoles, Eric Reese, and Rebecca Williams
+
+----
 
 ####Want to learn how to engage your community?
 

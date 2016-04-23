@@ -20,6 +20,6 @@ Tacoma, WA, actively involved the community in its strategic planning sessions f
 * Are there individuals or groups that have expressed distrust or disappointment with city government? If so, how can you best connect with them to foster transparency and trust? For example, is there overlap between those individuals or groups and existing networks?
 
 **Related Tools and GovEx Resources**
-* Curating a Public Conversation Toolkit
-* Outreach Effectiveness Toolkit
+* [Curating a Public Conversation Toolkit](chapter6.3.md)
+* [Outreach Effectiveness Toolki](chapter6.6.md)
 * GovEx’s [Addressing Open Data Concerns](http://labs.centerforgov.org/open-data/addressing-concerns/)

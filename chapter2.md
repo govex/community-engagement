@@ -17,8 +17,8 @@ Cities can measure public demand for data by tracking information requested thro
 * Are there networks that you can tap into to draw additional members of the public into the conversation?
 
 **Related Tools and GovEx Resources**
-* Curating a Public Conversation Toolkit
-* Community Capacity Toolkit
-* Web Analytics Toolkit
+* [Curating a Public Conversation Toolkit](chapter6.3.md)
+* [Community Capacity Toolkit](chapter6.1.md)
+* [Web Analytics Toolkit](chapter6.5.md)
 * GovEx’s [Open Data: Measuring What Matters](http://govex.jhu.edu/open-data-measuring-what-matters/)
 * GovEx’s [Data Inventory Guide](https://www.gitbook.com/book/centerforgov/dataset-inventory-guidelines/details)

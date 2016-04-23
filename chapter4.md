@@ -18,8 +18,8 @@ Several cities, including [Chattanooga, TN](http://budget.chattanooga.gov/#!/yea
 * Do you have ongoing usability testing scheduled? How will you address usability concerns?
 
 **Related Tools and GovEx Resources**
-* Curating a Public Conversation Toolkit
-* Community Capacity Toolkit
-* Press Toolkit
-* Outreach Effectiveness Toolkit
+* [Curating a Public Conversation Toolkit](chapter6.3.md)
+* [Community Capacity Toolkit](chapter6.1.md)
+* [Press Toolkit](chapter6.4.md)
+* [Outreach Effectiveness Toolkit](chapter6.6.md)
 * GovEx’s [Data Visualization Guide](http://labs.centerforgov.org/guides/dataviz/index.html)

@@ -10,4 +10,4 @@ Now more than ever, cities are working to get data and information in the hands 
 
 To assist cities in elevating community engagement efforts, the [Center for Government Excellence at Johns Hopkins University](http://govex.jhu.edu/), a partner in the [What Works Cities initiative](http://www.whatworkscities.org/), has created this playbook. By learning from the experiences of other cities and following best practices developed by the Center, cities will gain a greater understanding of community engagement.
 
-![WWC Resource Badge](https://raw.githubusercontent.com/govex/govex.github.io/master/images/WWC_ResourceStamp_web_500x500.png)
+![WWC Resource Badge](https://raw.githubusercontent.com/govex/govex.github.io/master/images/WWC_ResourceStamp_web.png)

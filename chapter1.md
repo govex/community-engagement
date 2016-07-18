@@ -21,5 +21,5 @@ Tacoma, WA, actively involved the community in its strategic planning sessions f
 
 **Related Tools and GovEx Resources**
 * [Curating a Public Conversation Toolkit](chapter6.3.md)
-* [Outreach Effectiveness Toolki](chapter6.6.md)
+* [Outreach Effectiveness Toolkit](chapter6.6.md)
 * GovEx’s [Addressing Open Data Concerns](http://labs.centerforgov.org/open-data/addressing-concerns/)

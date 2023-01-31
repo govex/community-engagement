@@ -16,20 +16,39 @@ To assist cities in elevating community engagement efforts, the [Center for Gove
 
 ## Summary
 
-* [How to Use This Guide](#how-to-use-this-guide)
-* [Foster Transparency and Trust](#chapter-1-foster-transparency-and-trust)
-* [Release Data Proactively and in Accordance with Public Demand](#chapter-2-release-data-proactively-and-in-accordance-with-public-demand)
-* [Help Residents Solve Problems and Access Government](#chapter-3-help-residents-solve-problems-and-access-government)
-* [Ensure Residents Understand and Are Using Data and Information](#chapter-4-ensure-residents-understand-and-are-using-data-and-information)
-* [Gain Public Feedback on a Proposed Policy or Program](#chapter-5-gain-public-feedback-on-a-proposed-policy-or-program)
-* [Tool Kits](#chapter-6-toolkits)
-  * [Community Capacity Toolkit](#chapter-61-community-capacity-toolkit)
-  * [Meeting Planning Toolkit](#chapter-62-meeting-planning-toolkit)
-  * [Curating a Public Conversation Toolkit](#chapter-63-curating-a-public-conversation-toolkit)
-  * [Press Toolkit](#chapter-64-press-toolkit)
-  * [Web Analytics Toolkit](#chapter-65-web-analytics-toolkit)
-  * [Outreach Effectiveness Toolkit](#chapter-66-outreach-effectiveness-toolkit)
-* [Conclusion](#conclusion)
+- [Community Engagement Playbook](#community-engagement-playbook)
+  - [Want to learn how to engage your community?](#want-to-learn-how-to-engage-your-community)
+  - [Summary](#summary)
+  - [How to Use This Guide](#how-to-use-this-guide)
+    - [Questions to Consider (courtesy of Laurenellen McCann)](#questions-to-consider-courtesy-of-laurenellen-mccann)
+  - [Chapter 1: Foster Transparency and Trust](#chapter-1-foster-transparency-and-trust)
+    - [1.1 Case Studies](#11-case-studies)
+    - [1.2 Questions to Consider](#12-questions-to-consider)
+    - [1.3 Related Tools and GovEx Resources](#13-related-tools-and-govex-resources)
+  - [Chapter 2: Release Data Proactively and in Accordance with Public Demand](#chapter-2-release-data-proactively-and-in-accordance-with-public-demand)
+    - [2.1 Case Studies](#21-case-studies)
+    - [2.2 Questions to Consider](#22-questions-to-consider)
+    - [2.3 Related Tools and GovEx Resources](#23-related-tools-and-govex-resources)
+  - [Chapter 3: Help Residents Solve Problems and Access Government](#chapter-3-help-residents-solve-problems-and-access-government)
+    - [3.1 Case Studies](#31-case-studies)
+    - [3.2 Questions to Consider](#32-questions-to-consider)
+    - [3.3 Related Tools and GovEx Resources](#33-related-tools-and-govex-resources)
+  - [Chapter 4: Ensure Residents Understand and Are Using Data and Information](#chapter-4-ensure-residents-understand-and-are-using-data-and-information)
+    - [4.1 Case Studies](#41-case-studies)
+    - [4.2 Questions to Consider](#42-questions-to-consider)
+    - [4.3 Related Tools and GovEx Resources](#43-related-tools-and-govex-resources)
+  - [Chapter 5: Gain Public Feedback on a Proposed Policy or Program](#chapter-5-gain-public-feedback-on-a-proposed-policy-or-program)
+    - [5.1 Case Studies](#51-case-studies)
+    - [5.2 Questions to Consider](#52-questions-to-consider)
+    - [5.3 Related Tools and GovEx Resources](#53-related-tools-and-govex-resources)
+  - [Chapter 6 Toolkits](#chapter-6-toolkits)
+    - [Chapter 6.1: Community Capacity Toolkit](#chapter-61-community-capacity-toolkit)
+    - [Chapter 6.2: Meeting Planning Toolkit](#chapter-62-meeting-planning-toolkit)
+    - [Chapter 6.3: Curating a Public Conversation Toolkit](#chapter-63-curating-a-public-conversation-toolkit)
+    - [Chapter 6.4: Press Toolkit](#chapter-64-press-toolkit)
+    - [Chapter 6.5: Web Analytics Toolkit](#chapter-65-web-analytics-toolkit)
+    - [Chapter 6.6: Outreach Effectiveness Toolkit](#chapter-66-outreach-effectiveness-toolkit)
+  - [Conclusion](#conclusion)
 
 ## How to Use This Guide
 
@@ -45,12 +64,12 @@ This guide is intended to provide questions, examples, and tools that can inspir
 
 ### Questions to Consider (courtesy of [Laurenellen McCann](http://laurenellen.com/))
 
-* How are you creating opportunities for engagement?
-* How and how often are you letting your community know they can interact with your city’s data?
-* What rewards are you offering for engagement? Would you act on those rewards?
-* How are you thanking and acknowledging people for their engagement? Is this focused on one type of engagement or distributed across the various ways people can engage?
-* How does community engagement actually influence the work you do?
-* Where can community members see their engagement mattering/influencing your work?
+- How are you creating opportunities for engagement?
+- How and how often are you letting your community know they can interact with your city’s data?
+- What rewards are you offering for engagement? Would you act on those rewards?
+- How are you thanking and acknowledging people for their engagement? Is this focused on one type of engagement or distributed across the various ways people can engage?
+- How does community engagement actually influence the work you do?
+- Where can community members see their engagement mattering/influencing your work?
 
 ## Chapter 1: Foster Transparency and Trust
 
@@ -68,17 +87,18 @@ Tacoma, WA, actively involved the community in its strategic planning sessions f
 
 ### 1.2 Questions to Consider
 
-* Does your city know what the community is looking for from your open data or performance management program? If not, would one of the forums described in this chapter work for your community’s culture in that discovery?
-* What are some targeted questions you can post on these types of forums to spark conversation and interest in data?
-* Who in the city will be responsible for curating or moderating these conversations? What will the frequency be?
-* Will this be a one-time initiative or something you hope to revisit on a regular basis? Does that response change your approach to community engagement?
-* Are there individuals or groups that have expressed distrust or disappointment with city government? If so, how can you best connect with them to foster transparency and trust? For example, is there overlap between those individuals or groups and existing networks?
+- Does your city know what the community is looking for from your open data or performance management program? If not, would one of the forums described in this chapter work for your community’s culture in that discovery?
+
+- What are some targeted questions you can post on these types of forums to spark conversation and interest in data?
+- Who in the city will be responsible for curating or moderating these conversations? What will the frequency be?
+- Will this be a one-time initiative or something you hope to revisit on a regular basis? Does that response change your approach to community engagement?
+- Are there individuals or groups that have expressed distrust or disappointment with city government? If so, how can you best connect with them to foster transparency and trust? For example, is there overlap between those individuals or groups and existing networks?
 
 ### 1.3 Related Tools and GovEx Resources
 
-* [Curating a Public Conversation Toolkit](chapter6.3.md)
-* [Outreach Effectiveness Toolkit](chapter6.6.md)
-* GovEx’s [Addressing Open Data Concerns](http://labs.centerforgov.org/open-data/addressing-concerns/)
+- [Curating a Public Conversation Toolkit](chapter6.3.md)
+- [Outreach Effectiveness Toolkit](chapter6.6.md)
+- GovEx’s [Addressing Open Data Concerns](http://labs.centerforgov.org/open-data/addressing-concerns/)
 
 ## Chapter 2: Release Data Proactively and in Accordance with Public Demand
 
@@ -92,20 +112,20 @@ Cities can measure public demand for data by tracking information requested thro
 
 ### 2.2 Questions to Consider
 
-* How easy is it for the public to request data in your city?
-* Do you have developer and communications capacity to add comment functionality to your website?
-* Would publishing your city’s data inventory online help encourage this conversation?
-* Does your city prioritize releasing frequently requested datasets?
-* Do you know who frequently requests data in your city?
-* Are there networks that you can tap into to draw additional members of the public into the conversation?
+- How easy is it for the public to request data in your city?
+- Do you have developer and communications capacity to add comment functionality to your website?
+- Would publishing your city’s data inventory online help encourage this conversation?
+- Does your city prioritize releasing frequently requested datasets?
+- Do you know who frequently requests data in your city?
+- Are there networks that you can tap into to draw additional members of the public into the conversation?
 
 ### 2.3 Related Tools and GovEx Resources
 
-* [Curating a Public Conversation Toolkit](chapter6.3.md)
-* [Community Capacity Toolkit](chapter6.1.md)
-* [Web Analytics Toolkit](chapter6.5.md)
-* GovEx’s [Open Data: Measuring What Matters](http://govex.jhu.edu/open-data-measuring-what-matters/)
-* GovEx’s [Data Inventory Guide](https://www.gitbook.com/book/centerforgov/dataset-inventory-guidelines/details)
+- [Curating a Public Conversation Toolkit](chapter6.3.md)
+- [Community Capacity Toolkit](chapter6.1.md)
+- [Web Analytics Toolkit](chapter6.5.md)
+- GovEx’s [Open Data: Measuring What Matters](http://govex.jhu.edu/open-data-measuring-what-matters/)
+- GovEx’s [Data Inventory Guide](https://www.gitbook.com/book/centerforgov/dataset-inventory-guidelines/details)
 
 ## Chapter 3: Help Residents Solve Problems and Access Government
 
@@ -123,17 +143,17 @@ Mobile, AL, combined resident reports to its 311 call center and pictures code e
 
 ### 3.2 Questions to Consider
 
-* Are there problems in the city that can or should be addressed with public input?
-* Do you have a relationship with your city’s tech community? Do you have in-house development capability?
-* Are there any existing structures or systems in place to solve this problem?
-* What questions can you ask to find out the type of tech solutions that your city’s residents would find helpful?
-* What systems are used internally that may also have value for the public?
+- Are there problems in the city that can or should be addressed with public input?
+- Do you have a relationship with your city’s tech community? Do you have in-house development capability?
+- Are there any existing structures or systems in place to solve this problem?
+- What questions can you ask to find out the type of tech solutions that your city’s residents would find helpful?
+- What systems are used internally that may also have value for the public?
 
 ### 3.3 Related Tools and GovEx Resources
 
-* [Curating a Public Conversation Toolkit](chapter6.3.md)
-* [Community Capacity Toolkit](chapter6.1.md)
-* [Press Toolkit](chapter6.4.md)
+- [Curating a Public Conversation Toolkit](chapter6.3.md)
+- [Community Capacity Toolkit](chapter6.1.md)
+- [Press Toolkit](chapter6.4.md)
 
 ## Chapter 4: Ensure Residents Understand and Are Using Data and Information
 
@@ -147,21 +167,21 @@ Several cities, including [Chattanooga, TN](http://budget.chattanooga.gov/#!/yea
 
 ### 4.2 Questions to Consider
 
-* What metadata are you including with your raw data?
-* What additional contextual materials are you including with your raw data? Are you including a data dictionary or other documentation?
-* Does your city have a schedule of the next datasets, apps, or visualizations that it plans to release? If so, is this schedule publicly available?
-* Is the information contextualized and interactive? If not, is there a way to contextualize it?
-* Does your city have mechanisms to contextualize data for interested parties (e.g., city staff with a deep understanding of the data or data dictionaries describing the fields in a dataset) in place?
-* Who is the audience that may be interested in this release? Is your city already connecting with that audience? How can you engage them in reviewing the data, app, visualization, etc.?
-* Do you have ongoing usability testing scheduled? How will you address usability concerns?
+- What metadata are you including with your raw data?
+- What additional contextual materials are you including with your raw data? Are you including a data dictionary or other documentation?
+- Does your city have a schedule of the next datasets, apps, or visualizations that it plans to release? If so, is this schedule publicly available?
+- Is the information contextualized and interactive? If not, is there a way to contextualize it?
+- Does your city have mechanisms to contextualize data for interested parties (e.g., city staff with a deep understanding of the data or data dictionaries describing the fields in a dataset) in place?
+- Who is the audience that may be interested in this release? Is your city already connecting with that audience? How can you engage them in reviewing the data, app, visualization, etc.?
+- Do you have ongoing usability testing scheduled? How will you address usability concerns?
 
 ### 4.3 Related Tools and GovEx Resources
 
-* [Curating a Public Conversation Toolkit](chapter6.3.md)
-* [Community Capacity Toolkit](chapter6.1.md)
-* [Press Toolkit](chapter6.4.md)
-* [Outreach Effectiveness Toolkit](chapter6.6.md)
-* GovEx’s [Data Visualization Guide](http://labs.centerforgov.org/guides/dataviz/index.html)
+- [Curating a Public Conversation Toolkit](chapter6.3.md)
+- [Community Capacity Toolkit](chapter6.1.md)
+- [Press Toolkit](chapter6.4.md)
+- [Outreach Effectiveness Toolkit](chapter6.6.md)
+- GovEx’s [Data Visualization Guide](http://labs.centerforgov.org/guides/dataviz/index.html)
 
 ## Chapter 5: Gain Public Feedback on a Proposed Policy or Program
 
@@ -181,16 +201,16 @@ The [OutFront](http://fayettevilleoutfront.com/) website in Fayetteville, NC, em
 
 ### 5.2 Questions to Consider
 
-* Does the culture of your city support using a free, widely available tool (e.g., Google Docs, GitHub, or Madison)?
-* Is there money in the budget to build, buy, or adapt a more sophisticated and comprehensive tool?
-* Could an online, collaborative tool work well alongside more traditional venues for public input on proposed legislation or programs, such as community meetings and city council hearings? How would you ensure that they work together?
-* Who is your expected audience or set of contributors? Which tools are they most likely to be comfortable with?
+- Does the culture of your city support using a free, widely available tool (e.g., Google Docs, GitHub, or Madison)?
+- Is there money in the budget to build, buy, or adapt a more sophisticated and comprehensive tool?
+- Could an online, collaborative tool work well alongside more traditional venues for public input on proposed legislation or programs, such as community meetings and city council hearings? How would you ensure that they work together?
+- Who is your expected audience or set of contributors? Which tools are they most likely to be comfortable with?
 
 ### 5.3 Related Tools and GovEx Resources
 
-* [Meeting Planning Toolkit](chapter6.2.md)
-* [Press Toolkit](chapter6.4.md)
-* [Outreach Effectiveness Toolkit](chapter6.6.md)
+- [Meeting Planning Toolkit](chapter6.2.md)
+- [Press Toolkit](chapter6.4.md)
+- [Outreach Effectiveness Toolkit](chapter6.6.md)
 
 ## Chapter 6 Toolkits
 
@@ -198,189 +218,189 @@ The [OutFront](http://fayettevilleoutfront.com/) website in Fayetteville, NC, em
 
 When determining your city’s engagement strategy, it is important to think broadly about whom you can turn to for help with engagement, understand what your available resources are, and incorporate your community’s capacity into the strategy. The following is a checklist to assist you in answering these questions.
 
-* To whom can we look for help with engagement?
+- To whom can we look for help with engagement?
 
-  * Are there established public-private partnerships or governmental organizations doing this work with whom we could connect?
-    * [Map of Administration Community-Based Initiatives](https://www.whitehouse.gov/omb/place/datasets)
-    * [Affirmatively Furthering Fair Housing](https://www.hudexchange.info/programs/affh/) (AFFH)
-    * [Police Data Initiative](https://www.whitehouse.gov/blog/2015/05/18/launching-police-data-initiative)
-    * [OMB Place](https://www.whitehouse.gov/omb/place)
-    * [TechHire](https://www.whitehouse.gov/issues/technology/techhire)
-    * [Promise Zone](https://portal.hud.gov/hudportal/HUD?src=/program_offices/comm_planning/economicdevelopment/programs/pz/overview)
-    * [Climate Action Champions](http://energy.gov/epsa/climate-action-champions)
-    * [My Brother's Keeper](https://www.whitehouse.gov/my-brothers-keeper)
-    * [Strong Cities Strong Communities](https://www.huduser.gov/portal/sc2/home.html) (SC2)
-    * [Resilience AmeriCorps](http://www.nationalservice.gov/programs/americorps/resilience-americorps)
-    * [The Opportunity Project](http://opportunity.census.gov/)
-    * [US Public Participation Playbook](https://participation.usa.gov/)
+  - Are there established public-private partnerships or governmental organizations doing this work with whom we could connect?
+    - [Map of Administration Community-Based Initiatives](https://www.whitehouse.gov/omb/place/datasets)
+    - [Affirmatively Furthering Fair Housing](https://www.hudexchange.info/programs/affh/) (AFFH)
+    - [Police Data Initiative](https://www.whitehouse.gov/blog/2015/05/18/launching-police-data-initiative)
+    - [OMB Place](https://www.whitehouse.gov/omb/place)
+    - [TechHire](https://www.whitehouse.gov/issues/technology/techhire)
+    - [Promise Zone](https://portal.hud.gov/hudportal/HUD?src=/program_offices/comm_planning/economicdevelopment/programs/pz/overview)
+    - [Climate Action Champions](http://energy.gov/epsa/climate-action-champions)
+    - [My Brother's Keeper](https://www.whitehouse.gov/my-brothers-keeper)
+    - [Strong Cities Strong Communities](https://www.huduser.gov/portal/sc2/home.html) (SC2)
+    - [Resilience AmeriCorps](http://www.nationalservice.gov/programs/americorps/resilience-americorps)
+    - [The Opportunity Project](http://opportunity.census.gov/)
+    - [US Public Participation Playbook](https://participation.usa.gov/)
 
-  * Are there established nonprofits doing this work with whom we could connect?
-    * Bloomberg Philanthropies’ [What Works Cities](http://whatworkscities.bloomberg.org/)
-    * [Next Century Cities](http://nextcenturycities.org/)
-    * MacArthur Foundation’s Metro Lab Program
-    * Rockefeller Foundation’s [100 Resilient Cities](http://www.100resilientcities.org/#/-_/)
+  - Are there established nonprofits doing this work with whom we could connect?
+    - Bloomberg Philanthropies’ [What Works Cities](http://whatworkscities.bloomberg.org/)
+    - [Next Century Cities](http://nextcenturycities.org/)
+    - MacArthur Foundation’s Metro Lab Program
+    - Rockefeller Foundation’s [100 Resilient Cities](http://www.100resilientcities.org/#/-_/)
 
-  * Are there other organizations doing this work with whom we could connect?
-    * [ICMA Insights](http://icma.org/en/results/center_for_performance_measurement/icma_insights)
-    * [National League of Cities](http://www.nlc.org/)
-    * [US Conference of Mayors](http://www.usmayors.org/)
+  - Are there other organizations doing this work with whom we could connect?
+    - [ICMA Insights](http://icma.org/en/results/center_for_performance_measurement/icma_insights)
+    - [National League of Cities](http://www.nlc.org/)
+    - [US Conference of Mayors](http://www.usmayors.org/)
 
-* What are our available resources?
+- What are our available resources?
 
-  * Are there training programs that are easily accessible to us?
-    * [Bento](https://bento.io/)
-    * [Code Academy](https://www.codecademy.com/)
-    * [Coursera](https://www.coursera.org/)
-    * [edX](https://www.edx.org/)
-    * [General Assembly](https://generalassemb.ly/)
-    * Professional organization courses
-    * Academic courses
+  - Are there training programs that are easily accessible to us?
+    - [Bento](https://bento.io/)
+    - [Code Academy](https://www.codecademy.com/)
+    - [Coursera](https://www.coursera.org/)
+    - [edX](https://www.edx.org/)
+    - [General Assembly](https://generalassemb.ly/)
+    - Professional organization courses
+    - Academic courses
 
-  * What resources are available through our library system?
+  - What resources are available through our library system?
 
-  * What resources are available through our local academic institutions?
+  - What resources are available through our local academic institutions?
 
-* What is our community’s capacity?
+- What is our community’s capacity?
 
-  * Are there local groups meeting already who would benefit from our city’s data or could inform our city’s engagement strategy?
-    * Civic tech groups (e.g., Meetups, Women Who Code, Code for America Brigades, etc.)
-    * Academic organizations or universities
-    * Advocacy groups
+  - Are there local groups meeting already who would benefit from our city’s data or could inform our city’s engagement strategy?
+    - Civic tech groups (e.g., Meetups, Women Who Code, Code for America Brigades, etc.)
+    - Academic organizations or universities
+    - Advocacy groups
 
 ### Chapter 6.2: Meeting Planning Toolkit
 
 Having well-thought-out meetings requires a lot of preparation. The following checklist will help you work through the planning stage and ensure community engagement in the process.
 
-* Whom do you plan to invite?
-  * Invitees may include:
-    * Residents
-    * Neighborhood association leaders
-    * Journalists
-    * Businesses
-    * Civic tech groups
-    * City staff (subject matter experts, data experts)
-    * University professors or students
-    * Librarians
-    * City leadership
+- Whom do you plan to invite?
+  - Invitees may include:
+    - Residents
+    - Neighborhood association leaders
+    - Journalists
+    - Businesses
+    - Civic tech groups
+    - City staff (subject matter experts, data experts)
+    - University professors or students
+    - Librarians
+    - City leadership
 
-* How will you message the meeting?
-  * Be clear about what you expect of all participants.
-  * Include a start and end time.
-  * Connect the meeting to the bigger picture.
+- How will you message the meeting?
+  - Be clear about what you expect of all participants.
+  - Include a start and end time.
+  - Connect the meeting to the bigger picture.
 
-* When will the meeting be held?
-  * Does the weekend or a weekday make more sense?
-  * What else is going on in the city that could affect your date?
-  * Consider holidays and religious obligations.
-  * If the meeting is in the evening, will you offer childcare?
+- When will the meeting be held?
+  - Does the weekend or a weekday make more sense?
+  - What else is going on in the city that could affect your date?
+  - Consider holidays and religious obligations.
+  - If the meeting is in the evening, will you offer childcare?
 
-* Is the location of the meeting appropriate for the participants?
-  * Is it accessible by all?
-  * Should the location be neutral?
-  * Is it important for it to be it hosted by the city or another key partner?
+- Is the location of the meeting appropriate for the participants?
+  - Is it accessible by all?
+  - Should the location be neutral?
+  - Is it important for it to be it hosted by the city or another key partner?
 
-* How will the meeting be structured and facilitated?
-  * Will there be a combination of small- and large-group discussions?
-  * Do you have enough facilitators?
-  * How do you plan to ensure participation by everyone?
-  * Have you built in time for reflection?
+- How will the meeting be structured and facilitated?
+  - Will there be a combination of small- and large-group discussions?
+  - Do you have enough facilitators?
+  - How do you plan to ensure participation by everyone?
+  - Have you built in time for reflection?
 
-* Do you have the necessary materials?
-  * Do you need notebooks, pens, or tablets?
-  * What are your technical needs? Are there power outlets?
-  * Will you serve food? Are there allergies or dietary restrictions?
+- Do you have the necessary materials?
+  - Do you need notebooks, pens, or tablets?
+  - What are your technical needs? Are there power outlets?
+  - Will you serve food? Are there allergies or dietary restrictions?
 
-* How will you follow up?
-  * Do you have a sign-in sheet or another way to collect contact information?
-  * When is the next time participants will hear from you?
-  * How will you contact them?
-  * What are the next steps in your process?
+- How will you follow up?
+  - Do you have a sign-in sheet or another way to collect contact information?
+  - When is the next time participants will hear from you?
+  - How will you contact them?
+  - What are the next steps in your process?
 
 ### Chapter 6.3: Curating a Public Conversation Toolkit
 
 Encouraging your community to be active in conversations about data can be challenging. The following tools and platforms can be used to boost participation and engagement and help residents connect with their government on issues that matter to them.
 
-* Forums/Comments Features
-  * [Consider.it](https://consider.it/)
-  * [Disqus](https://disqus.com/)
-  * [GitHub](https://github.com/)
-  * [Google Groups](https://groups.google.com/forum/#!overview)
-  * [Trello](https://trello.com/)
-  * [Open Town Hall](http://www.opentownhall.com/)
-  * [Polis](https://pol.is/home)
+- Forums/Comments Features
+  - [Consider.it](https://consider.it/)
+  - [Disqus](https://disqus.com/)
+  - [GitHub](https://github.com/)
+  - [Google Groups](https://groups.google.com/forum/#!overview)
+  - [Trello](https://trello.com/)
+  - [Open Town Hall](http://www.opentownhall.com/)
+  - [Polis](https://pol.is/home)
 
-* Social Media
-  * Facebook
-  * Instagram
-  * NextDoor
-  * Neighborhood association groups
-  * Twitter
-  * [Federal government’s Customer Experience Toolkit](https://www.digitalgov.gov/resources/customer-experience-toolkit/)
-  * [Federal government’s Social Media Accessibility Toolkit](http://www.digitalgov.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
-  * [Federal government’s Social Media Analytics Toolkit](http://www.digitalgov.gov/resources/federal-social-media-analytics-toolkit-hackpad/)
-  * [Federal government’s Social Media Policy Development Toolkit](http://www.digitalgov.gov/resources/federal-social-media-policy-development-toolkit-hackpad/)
-  * [Federal government’s Plain Language Web Writing Tips](https://www.digitalgov.gov/resources/plain-language-web-writing-tips/)
+- Social Media
+  - Facebook
+  - Instagram
+  - NextDoor
+  - Neighborhood association groups
+  - Twitter
+  - [Federal government’s Customer Experience Toolkit](https://www.digitalgov.gov/resources/customer-experience-toolkit/)
+  - [Federal government’s Social Media Accessibility Toolkit](http://www.digitalgov.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
+  - [Federal government’s Social Media Analytics Toolkit](http://www.digitalgov.gov/resources/federal-social-media-analytics-toolkit-hackpad/)
+  - [Federal government’s Social Media Policy Development Toolkit](http://www.digitalgov.gov/resources/federal-social-media-policy-development-toolkit-hackpad/)
+  - [Federal government’s Plain Language Web Writing Tips](https://www.digitalgov.gov/resources/plain-language-web-writing-tips/)
 
-* Blogs
-  * [Brookings Institution’s research blog](http://www.brookings.edu/research/)
-  * [Data Smart City Solutions Civic Engagement blog](http://datasmart.ash.harvard.edu/civic-engagement)
-  * [Center for Data Innovation’s blog](https://www.datainnovation.org/category/blog/)
-  * [Code for America’s blog](https://www.codeforamerica.org/blog/)
-  * [Governing’s website](http://www.governing.com/)
-  * [FiveThirtyEight’s DataLab](https://fivethirtyeight.com/datalab/)
-  * [GovEx’s blog and website](http://govex.jhu.edu/)
-  * [GovFresh’s website](http://www.govfresh.com/)
-  * [Government Technology](http://www.govtech.com/)
-  * [Kansas City, MO’s Chartland](http://kcmo.gov/data/chartland/)
-  * [San Francisco, CA’s DataSF blog](http://datasf.org/blog/)
-  * [StatsBlogs](http://www.statsblogs.com/)
-  * [Sunlight Foundation’s blog](https://sunlightfoundation.com/blog/)
-  * [US Open Data blog](https://usopendata.org/blog/)
+- Blogs
+  - [Brookings Institution’s research blog](http://www.brookings.edu/research/)
+  - [Data Smart City Solutions Civic Engagement blog](http://datasmart.ash.harvard.edu/civic-engagement)
+  - [Center for Data Innovation’s blog](https://www.datainnovation.org/category/blog/)
+  - [Code for America’s blog](https://www.codeforamerica.org/blog/)
+  - [Governing’s website](http://www.governing.com/)
+  - [FiveThirtyEight’s DataLab](https://fivethirtyeight.com/datalab/)
+  - [GovEx’s blog and website](http://govex.jhu.edu/)
+  - [GovFresh’s website](http://www.govfresh.com/)
+  - [Government Technology](http://www.govtech.com/)
+  - [Kansas City, MO’s Chartland](http://kcmo.gov/data/chartland/)
+  - [San Francisco, CA’s DataSF blog](http://datasf.org/blog/)
+  - [StatsBlogs](http://www.statsblogs.com/)
+  - [Sunlight Foundation’s blog](https://sunlightfoundation.com/blog/)
+  - [US Open Data blog](https://usopendata.org/blog/)
 
-* Surveys
-  * Tools
-    * [AllOurIdeas](http://www.allourideas.org/)
-    * [SurveyMonkey](https://www.surveymonkey.com/)
-    * [Textizen](https://www.textizen.com/)
-  * Example surveys
-    * [Citizen Satisfaction Survey](http://kcmo.gov/citymanagersoffice/creative-services/art-of-data/)
-    * [National Police Research Platform](http://uicclj.squarespace.com/police-citizen-interaction-pci/)
+- Surveys
+  - Tools
+    - [AllOurIdeas](http://www.allourideas.org/)
+    - [SurveyMonkey](https://www.surveymonkey.com/)
+    - [Textizen](https://www.textizen.com/)
+  - Example surveys
+    - [Citizen Satisfaction Survey](http://kcmo.gov/citymanagersoffice/creative-services/art-of-data/)
+    - [National Police Research Platform](http://uicclj.squarespace.com/police-citizen-interaction-pci/)
 
-* Applications for the Community
-  * Tools
-    * [Catalog of Civic Apps](http://wiki.civiccommons.org/App_catalogs/)
-    * [Citygram](https://www.citygram.org/)
-    * [GivePulse](https://www.givepulse.com/)
-    * [MySidewalk](http://www2.mysidewalk.com/)
-    * [SeeClickFix](http://en.seeclickfix.com/)
-    * [Citizens Connect](http://newurbanmechanics.org/project/citizens-connect/)
-    * [Popularise](https://popularise.com/home)
-  * City examples
-    * [Albuquerque, NM’s ABQ311](http://www.cabq.gov/311/abq311)
-    * [Aurora, IL’s My Place](http://gis.aurora-il.org/myplace/)
-    * [Charlotte’s Citygram](https://www.citygram.org/charlotte) for historic district review, land development, accidents and obstructions, and rezoning
-    * [Denver, CO’s Pocket Gov](https://www.denvergov.org/pocketgov/#/)
-    * [Fayetteville, NC’s OutFront](http://fayettevilleoutfront.com/)
-    * [Greensboro, NC’s MyPD](http://www.greensboro-nc.gov/index.aspx?page=36&recordid=6970)
-    * [Gresham, OR’s MyGresham](http://greshamoregon.gov/mygresham/)
-    * [Lexington, KY’s Citygram](https://www.citygram.org/lexington) for code enforcement, building permits, and foreclosures
-    * [Los Angeles, CA’s Innovation Fund](http://innovate.lacity.org/index.htm)
-    * [Oakland, CA’s Speak Up, Oakland!](http://speakupoakland.org/ideas)
-    * [South Bend Cityvoice](http://www.southbendvoices.com/)
-    * [Tallahassee, FL’s DigiTally](https://www.talgov.com/Main/digitally.aspx)
-    * [Wichita, KS’s Wichita Report](http://www.wichita.gov/Government/Departments/PWU/Pages/ReportAnIssue.aspx)
+- Applications for the Community
+  - Tools
+    - [Catalog of Civic Apps](http://wiki.civiccommons.org/App_catalogs/)
+    - [Citygram](https://www.citygram.org/)
+    - [GivePulse](https://www.givepulse.com/)
+    - [MySidewalk](http://www2.mysidewalk.com/)
+    - [SeeClickFix](http://en.seeclickfix.com/)
+    - [Citizens Connect](http://newurbanmechanics.org/project/citizens-connect/)
+    - [Popularise](https://popularise.com/home)
+  - City examples
+    - [Albuquerque, NM’s ABQ311](http://www.cabq.gov/311/abq311)
+    - [Aurora, IL’s My Place](http://gis.aurora-il.org/myplace/)
+    - [Charlotte’s Citygram](https://www.citygram.org/charlotte) for historic district review, land development, accidents and obstructions, and rezoning
+    - [Denver, CO’s Pocket Gov](https://www.denvergov.org/pocketgov/#/)
+    - [Fayetteville, NC’s OutFront](http://fayettevilleoutfront.com/)
+    - [Greensboro, NC’s MyPD](http://www.greensboro-nc.gov/index.aspx?page=36&recordid=6970)
+    - [Gresham, OR’s MyGresham](http://greshamoregon.gov/mygresham/)
+    - [Lexington, KY’s Citygram](https://www.citygram.org/lexington) for code enforcement, building permits, and foreclosures
+    - [Los Angeles, CA’s Innovation Fund](http://innovate.lacity.org/index.htm)
+    - [Oakland, CA’s Speak Up, Oakland!](http://speakupoakland.org/ideas)
+    - [South Bend Cityvoice](http://www.southbendvoices.com/)
+    - [Tallahassee, FL’s DigiTally](https://www.talgov.com/Main/digitally.aspx)
+    - [Wichita, KS’s Wichita Report](http://www.wichita.gov/Government/Departments/PWU/Pages/ReportAnIssue.aspx)
 
-* Community Events
-  * [Meetup](http://www.meetup.com/)
-  * Local government websites
-  * Newspaper websites
+- Community Events
+  - [Meetup](http://www.meetup.com/)
+  - Local government websites
+  - Newspaper websites
 
-* Crowdfunding Platforms
-  * Change By Us
-  * [Citizinvestor](http://www.citizinvestor.com/)
-  * [ioby](https://www.ioby.org/)
-  * [Neighborly](https://neighborly.com/)
-  * [Patronhood](http://patronhood.tumblr.com/about)
+- Crowdfunding Platforms
+  - Change By Us
+  - [Citizinvestor](http://www.citizinvestor.com/)
+  - [ioby](https://www.ioby.org/)
+  - [Neighborly](https://neighborly.com/)
+  - [Patronhood](http://patronhood.tumblr.com/about)
 
 ### Chapter 6.4: Press Toolkit
 
@@ -396,26 +416,26 @@ By looking at data points from these analytics tools, such as the most popular w
 
 Here are some questions to consider when analyzing your web presence data:
 
-* What pages have the most views and downloads? Why do you think this is the case? Is there more information on this topic you could be releasing?
-* How do your web analytics compare to similar cities? What insights can you draw from that comparison?
-* Are you reaching and getting input from your target population? If not, what new tact could you take?
-* Are you displaying the same information on a variety of platforms to ensure the community has a good chance of seeing it?
+- What pages have the most views and downloads? Why do you think this is the case? Is there more information on this topic you could be releasing?
+- How do your web analytics compare to similar cities? What insights can you draw from that comparison?
+- Are you reaching and getting input from your target population? If not, what new tact could you take?
+- Are you displaying the same information on a variety of platforms to ensure the community has a good chance of seeing it?
 
 ### Chapter 6.6: Outreach Effectiveness Toolkit
 
 Evaluating the effectiveness of your city’s engagement attempts is an important step in refining the process and continuing the conversation with your community. This could mean surveying participants after an event, calling for feedback in e-mail blasts, or sharing the results and progress with meeting attendees. Following up with stakeholders is key to making the engagement a positive experience and encouraging them to stay involved. The following is sample language your city could use in soliciting feedback from community stakeholders:
 
-* How did you hear about this event?
-* What did you like about this event?
-* What didn’t you like about this event?
-* What would attract you to an event like this in the future?
-* Were the event’s objectives accomplished?
-* Did you establish any new relationships with city staff or other event participants?
-* Did you visit the city’s website/open data portal/social media sites/etc. after this event?
-* Will you use the tools discussed during the event in the future?
-* Do you feel that this event enabled you to share your thoughts and opinions?
-* Do you feel that you can help shape governmental processes or services?
-* Do you feel that you have a better understanding of how the government operates?
+- How did you hear about this event?
+- What did you like about this event?
+- What didn’t you like about this event?
+- What would attract you to an event like this in the future?
+- Were the event’s objectives accomplished?
+- Did you establish any new relationships with city staff or other event participants?
+- Did you visit the city’s website/open data portal/social media sites/etc. after this event?
+- Will you use the tools discussed during the event in the future?
+- Do you feel that this event enabled you to share your thoughts and opinions?
+- Do you feel that you can help shape governmental processes or services?
+- Do you feel that you have a better understanding of how the government operates?
 
 ## Conclusion
 

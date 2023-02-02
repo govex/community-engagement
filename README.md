@@ -2,7 +2,7 @@
 
 by Lena Geraghty and Katherine Klosek
 
-with contributions from Kristen Ahearn, Matt Pazoles, Eric Reese, Rebecca Williams, Gregory Power
+with contributions from Kristen Ahearn, Matt Pazoles, Eric Reese, Rebecca Williams, and Gregory Power
 
 ----
 

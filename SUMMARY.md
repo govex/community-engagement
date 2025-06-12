@@ -1,12 +1,13 @@
-# Summary
+# Table of contents
 
+* [README](README.md)
 * [How to Use This Guide](howtouse.md)
 * [Foster Transparency and Trust](chapter1.md)
 * [Release Data Proactively and in Accordance with Public Demand](chapter2.md)
 * [Help Residents Solve Problems and Access Government](chapter3.md)
 * [Ensure Residents Understand and Are Using Data and Information](chapter4.md)
 * [Gain Public Feedback on a Proposed Policy or Program](chapter5.md)
-* Tool Kits
+* [Tool Kits](tool-kits/README.md)
   * [Community Capacity Toolkit](chapter6.1.md)
   * [Meeting Planning Toolkit](chapter6.2.md)
   * [Curating a Public Conversation Toolkit](chapter6.3.md)

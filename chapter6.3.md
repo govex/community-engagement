@@ -58,7 +58,7 @@ Encouraging your community to be active in conversations about data can be chall
     * [Lexington, KY’s Citygram](https://www.citygram.org/lexington) for code enforcement, building permits, and foreclosures
     * [Los Angeles, CA’s Innovation Fund](http://innovate.lacity.org/index.htm)
     * [Oakland, CA’s Speak Up, Oakland!](http://speakupoakland.org/ideas)
-    * [South Bend Cityvoice](http://www.southbendvoices.com/)
+    * [South Bend Cityvoice](https://southbendvoice.com/tag/cityvoice/)
     * [Tallahassee, FL’s DigiTally](https://www.talgov.com/Main/digitally.aspx)
     * [Wichita, KS’s Wichita Report](http://www.wichita.gov/Government/Departments/PWU/Pages/ReportAnIssue.aspx)
 * Community Events

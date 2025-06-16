@@ -24,6 +24,6 @@ Several cities, including [Chattanooga, TN](http://budget.chattanooga.gov/#!/yea
 
 * [Curating a Public Conversation Toolkit](chapter6.3.md)
 * [Community Capacity Toolkit](chapter6.1.md)
-* [Press Toolkit](chapter6.4.md)
+* [Press Toolkit](broken-reference)
 * [Outreach Effectiveness Toolkit](chapter6.6.md)
 * GovEx’s [Data Visualization Guide](http://labs.centerforgov.org/guides/dataviz/index.html)

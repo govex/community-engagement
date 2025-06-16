@@ -26,5 +26,5 @@ The [OutFront](http://fayettevilleoutfront.com/) website in Fayetteville, NC, em
 **Related Tools and GovEx Resources**
 
 * [Meeting Planning Toolkit](chapter6.2.md)
-* [Press Toolkit](chapter6.4.md)
+* [Press Toolkit](broken-reference)
 * [Outreach Effectiveness Toolkit](chapter6.6.md)

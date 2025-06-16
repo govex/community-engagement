@@ -26,4 +26,4 @@ Mobile, AL, combined resident reports to its 311 call center and pictures code e
 
 * [Curating a Public Conversation Toolkit](chapter6.3.md)
 * [Community Capacity Toolkit](chapter6.1.md)
-* [Press Toolkit](chapter6.4.md)
+* [Press Toolkit](broken-reference)

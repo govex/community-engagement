@@ -1,48 +1,66 @@
-####Chapter 6.2: Meeting Planning Toolkit
+# Meeting Planning Toolkit
+
+\####Chapter 6.2: Meeting Planning Toolkit
 
 Having well-thought-out meetings requires a lot of preparation. The following checklist will help you work through the planning stage and ensure community engagement in the process.
 
-* Whom do you plan to invite?
-  * Invitees may include:
-    * Residents
-    * Neighborhood association leaders
-    * Journalists
-    * Businesses
-    * Civic tech groups
-    * City staff (subject matter experts, data experts)
-    * University professors or students
-    * Librarians
-    * City leadership
+#### **Whom Do You Plan to Invite?**
 
-* How will you message the meeting?
-  * Be clear about what you expect of all participants.
-  * Include a start and end time.
-  * Connect the meeting to the bigger picture.
+Your invite list should reflect a diverse cross-section of the community, including:
 
-* When will the meeting be held?
-  * Does the weekend or a weekday make more sense?
-  * What else is going on in the city that could affect your date?
-  * Consider holidays and religious obligations.
-  * If the meeting is in the evening, will you offer childcare?
+* Residents from a variety of neighborhoods
+* Neighborhood association leaders
+* Journalists and local media representatives
+* Small business owners and entrepreneurs
+* Civic tech and open data groups
+* City staff (including both subject matter and data experts)
+* University professors and students
+* Librarians and other public service workers
+* City leadership and elected officials
 
-* Is the location of the meeting appropriate for the participants?
-  * Is it accessible by all?
-  * Should the location be neutral?
-  * Is it important for it to be it hosted by the city or another key partner?
+#### **How Will You Message the Meeting?**
 
-* How will the meeting be structured and facilitated?
-  * Will there be a combination of small- and large-group discussions?
-  * Do you have enough facilitators?
-  * How do you plan to ensure participation by everyone?
-  * Have you built in time for reflection?
+When announcing the meeting:
 
-* Do you have the necessary materials?
-  * Do you need notebooks, pens, or tablets?
-  * What are your technical needs? Are there power outlets?
-  * Will you serve food? Are there allergies or dietary restrictions?
+* **Be clear about expectations**: Outline what participants are expected to contribute or learn.
+* **State the logistics**: Clearly include the start and end time.
+* **Connect to the bigger picture**: Explain how the meeting fits into broader city goals, such as improving data access, transparency, or community engagement.
 
-* How will you follow up?
-  * Do you have a sign-in sheet or another way to collect contact information?
-  * When is the next time participants will hear from you?
-  * How will you contact them?
-  * What are the next steps in your process?
+#### **When Will the Meeting Be Held?**
+
+Consider both the **timing** and the **city’s context**:
+
+* Will a **weekday or weekend** better suit your audience?
+* Check for **conflicting city events**, public holidays, or religious observances.
+* If held in the evening, consider **offering childcare** to increase accessibility.
+
+#### **Is the Location Appropriate?**
+
+The location should be:
+
+* **Convenient and accessible** to all invitees (ADA compliant, near public transit, safe area)
+* **Neutral**, if building trust or inclusivity is a priority
+* Hosted by the **city or a respected partner**, depending on your engagement goals
+
+#### **How Will the Meeting Be Structured and Facilitated?**
+
+Design the meeting to encourage participation:
+
+* Use a **mix of large-group and small-group discussions**
+* Ensure you have **enough facilitators** to support all groups
+* Plan ways to include **all voices**, especially quieter or underrepresented participants
+* Build in **time for reflection**, synthesis, or open Q\&A
+* Prepare and bring all **necessary materials** (e.g., pens, notebooks, tablets)
+
+Also consider:
+
+* **Technical needs**: Power outlets, projectors, microphones
+* **Refreshments**: Offer food and beverages, noting allergies or dietary restrictions
+
+#### **How Will You Follow Up?**
+
+Post-meeting, ensure continued engagement:
+
+* Collect **contact information** (sign-in sheet, digital form, etc.)
+* Let participants know **when and how they’ll hear from you next**
+* Clearly communicate the **next steps** in the process—whether it’s a report, another meeting, or an opportunity for feedback

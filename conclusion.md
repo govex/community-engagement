@@ -6,4 +6,4 @@ There’s no single “right” way to engage with your community. Effective com
 
 Lean on the experience of colleagues within your city and beyond. Reach out to academic institutions, civic tech groups, active residents, and even those who may be hesitant to participate. Every perspective has value. The more inclusive and responsive your approach, the stronger and more meaningful your community connections will become—and your efforts will pay off.
 
-Want to talk about community engagement with GovEx? Please write us at [govex@jhu.edu](govex@jhu.edu).
+Want to talk about community engagement with GovEx? Please write us at [govex@jhu.edu](https://govex.jhu.edu/).
